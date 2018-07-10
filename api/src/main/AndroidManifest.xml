@@ -1,2 +1,10 @@
-<manifest package="com.anysoftkeyboard.api">
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.anysoftkeyboard.api">
+
+    <application>
+        <activity
+            android:name=".DummyActivity"></activity>
+    </application>
+
 </manifest>
